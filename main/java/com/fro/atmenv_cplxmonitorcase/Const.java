@@ -20,6 +20,7 @@ public class Const {
 	public static Integer tem=null;
 	public static Integer hum=null;
 	
+	
 	//pm2.5
 	public static String PM25_IP= "192.168.0.101";
 	public static int PM25_PORT=4001;
